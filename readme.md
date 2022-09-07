@@ -12,33 +12,24 @@ Sampling Steps: 30
 
 # Contributing
 
-If there is an artist that the model knows about that you think should be on this list, you can open a pull request to add them.
-
-All types of artists are welcome. A prompt matrix image like the ones below should be provided. The prompt should reflect the artist's primary subjects. Make sure you use the generation parameters listed above.
+If there is an artist that the model knows about that you think should be on this list, you can open an issue or pull request. Keep in mind that Stable Diffusion does not know every single artist.
 
 # Artists
 
-## Akihiko Yoshida
-![](images/akihiko_yoshida.jpg)
+### <details><summary>Akihiko Yoshida</summary>![](images/akihiko_yoshida.jpg)</details>
 
-## Alphonse Mucha
+### <details><summary>Alphonse Mucha</summary>![](images/alphonse_mucha.jpg)</details>
 
+### <details><summary>Artgerm (NSFW)</summary>![](images/artgerm.jpg)</details>
 
-## Artgerm
->![](images/artgerm.jpg)
+### <details><summary>Conrad Roset</summary>![](images/conrad_roset.jpg)</details>
 
-## Conrad Roset
+### <details><summary>Greg Rutkowski</summary>![](images/greg_rutkowski.jpg)</details>
 
+### <details><summary>Ilya Kuvshinov</summary>![](images/ilya_kuvshinov.jpg)</details>
 
-## Greg Rutkowski
+### <details><summary>Krenz Cushart</summary>![](images/krenz_cushart.jpg)</details>
 
-
-## Ilya Kuvshinov
-
-
-## Krenz Cushart
-
-
-## Michael Garmash
+### <details><summary>Michael Garmash</summary>![](images/michael_garmash.jpg)</details>
 
 
