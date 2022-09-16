@@ -99,5 +99,8 @@ These artists' names are good for architecture prompts. Characters will appear f
 
 These artists are known for horrific sci-fi/fantasy, and their styles will corrupt everything they touch.
 
+#### <details><summary>Bernie Wrightson</summary>![](images/bernie_wrightson.jpg)</details>
 #### <details><summary>H.R. Giger</summary>![](images/hr_giger.jpg)</details>
+#### <details><summary>Richard Corben (NSFW)</summary>![](images/richard_corben.jpg)</details>
 #### <details><summary>Wayne Barlowe</summary>![](images/wayne_barlowe.jpg)</details>
+#### <details><summary>Zdzislaw Beksinski</summary>![](images/zdzislaw_beksinski.jpg)</details>
