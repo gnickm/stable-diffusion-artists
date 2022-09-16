@@ -34,6 +34,7 @@ These artists' names can be attached to any prompt. While they may be known for 
 #### <details><summary>Greg Rutkowski</summary>![](images/greg_rutkowski.jpg)</details>
 #### <details><summary>Ismail Inceoglu</summary>![](images/ismail_inceoglu.jpg)</details>
 #### <details><summary>John Berkey</summary>![](images/john_berkey.jpg)</details>
+#### <details><summary>Kelley Freas</summary>![](images/kelley_freas.jpg)</details>
 #### <details><summary>Michael Garmash</summary>![](images/michael_garmash.jpg)</details>
 #### <details><summary>Peter Mohrbacher</summary>![](images/peter_mohrbacher.jpg)</details>
 #### <details><summary>Sparth</summary>![](images/sparth.jpg)</details>
@@ -45,7 +46,9 @@ These artists' names can be attached to any prompt, but they are mainly known fo
 
 #### <details><summary>Akihiko Yoshida</summary>![](images/akihiko_yoshida.jpg)</details>
 #### <details><summary>Artgerm (NSFW)</summary>![](images/artgerm.jpg)</details>
+#### <details><summary>Banksy</summary>![](images/banksy.jpg)</details>
 #### <details><summary>Charlie Bowater</summary>![](images/charlie_bowater.jpg)</details>
+#### <details><summary>Don Maitz</summary>![](images/don_maitz.jpg)</details>
 #### <details><summary>Frank Frazetta (NSFW)</summary>![](images/frank_frazetta.jpg)</details>
 #### <details><summary>Hsiao-Ron Cheng</summary>![](images/hsiao-ron_cheng.jpg)</details>
 #### <details><summary>Ilya Kuvshinov</summary>![](images/ilya_kuvshinov.jpg)</details>
@@ -83,8 +86,10 @@ These artists' names can only be applied to character prompts. Attaching their n
 
 These artists' names are good for landscape prompts. Characters will appear far away or very large.
 
+#### <details><summary>Ansel Adams</summary>![](images/ansel_adams.jpg)</details>
 #### <details><summary>Ed Mell</summary>![](images/ed_mell.jpg)</details>
 #### <details><summary>Jessica Rossier</summary>![](images/jessica_rossier.jpg)</details>
+#### <details><summary>Michael Kenna</summary>![](images/michael_kenna.jpg)</details>
 
 ## Architecture
 
@@ -101,6 +106,7 @@ These artists are known for horrific sci-fi/fantasy, and their styles will corru
 
 #### <details><summary>Bernie Wrightson</summary>![](images/bernie_wrightson.jpg)</details>
 #### <details><summary>H.R. Giger</summary>![](images/hr_giger.jpg)</details>
+#### <details><summary>Joel Peter-Witkin (Very NSFW)</summary>![](images/joel_peter-witkin.jpg)</details>
 #### <details><summary>Richard Corben (NSFW)</summary>![](images/richard_corben.jpg)</details>
 #### <details><summary>Wayne Barlowe</summary>![](images/wayne_barlowe.jpg)</details>
 #### <details><summary>Zdzislaw Beksinski</summary>![](images/zdzislaw_beksinski.jpg)</details>
